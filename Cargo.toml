@@ -1,6 +1,6 @@
 [package]
 name = "walkdir_minimal"
-version = "0.1.0"
+version = "1.0.0"
 edition = "2024"
 description = "Minimal, dependency-free POSIX-focused directory walker in 100% Rust"
 license = "MIT"
