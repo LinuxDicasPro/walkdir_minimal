@@ -332,7 +332,7 @@ walkdir_minimal/
 └── Cargo.toml           # Package metadata
 ```
 
-## License
+## 📄 License
 
 This project is licensed under the **MIT License**.
 See the [`LICENSE`](./LICENSE) file for full details.
@@ -340,7 +340,7 @@ See the [`LICENSE`](./LICENSE) file for full details.
 By contributing to this repository, you agree that your contributions
 will be licensed under the same MIT terms.
 
-## Changelog
+## 📄 Changelog
 
 All notable changes to this project will be documented
 in the [`changelog`](./changelog) file.
